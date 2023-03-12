@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/navbar" element={<Navbar />}>
+        <Route path="/" element={<Navbar />}>
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
         </Route>

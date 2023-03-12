@@ -1,5 +1,5 @@
 import React from "react";
-import Pic from "./images/logo-beach-rentails.jpg";
+import Pic from "../../images/logo-beach-rentails.jpg";
 // import Pic1 from ".../BEACH-BROS-LOGO-SAN-DIEGO.png";
 
 const Home = () => {
